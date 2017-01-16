@@ -5,10 +5,12 @@ I agree with the premisses laid out in the first 4 minutes,
 but his implied conclution seems baseless.
 
 There is victory music playing in the background and he uses catchy rhetorics.
-
 Preferably, I'd like my arguments logical, not *inspiring*.
 
 The following is a review of most of the claims in the video.
+
+Hopefully I wasn't at an all time low in cognitive level when writing this.
+I'd feel a bit embarrassed if I accidentaly wrote bullcrap.
 
 You could be anywhere
 ---------------------
