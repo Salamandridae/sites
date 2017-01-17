@@ -2,7 +2,7 @@ The Lie We Live
 ===============
 ...is a [youtube video](https://youtu.be/ipe6CMvW0Dg) about society.
 I agree with the premisses laid out in the first 4 minutes,
-but his implied conclution seems baseless.
+but his implied conclusion seems baseless.
 
 There is victory music playing in the background and he uses catchy rhetorics.
 Preferably, I'd like my arguments logical, not *inspiring*.
