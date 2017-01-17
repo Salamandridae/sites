@@ -1,6 +1,6 @@
 The Lie We Live
 ===============
-Is a [youtube video](https://youtu.be/ipe6CMvW0Dg) about society.
+...is a [youtube video](https://youtu.be/ipe6CMvW0Dg) about society.
 I agree with the premisses laid out in the first 4 minutes,
 but his implied conclution seems baseless.
 
@@ -41,7 +41,7 @@ It's called "having a home" and it's not so bad.
 > follow the same path
 
 Paths are *spiritually* sounding.
-Everything spiritual means loving and humand and everything nice, right?
+Everything spiritual means loving and human and everything nice, right?
 And also
 [everything natural is good](https://yourlogicalfallacyis.com/appeal-to-nature).
 
@@ -110,7 +110,7 @@ This implies knowledge of unknown peoples intentions.
 
 > So we work and work
 
-As if working is intricically bad.
+As if working is intrincically bad.
 
 > No time to live the life we work for
 
@@ -155,6 +155,7 @@ What does this even mean?
 Not to invoke an argument over semantics, property or logical fallacies...
 
 > Their most valuable resources are us
+
 It's true that our purchasing choices and so on contribute to inequality,
 but this is the claim about unknown peoples intentions **AGAIN**!
 
@@ -162,11 +163,12 @@ Note that the background music is now cranked up to emotion level **epic**.
 
 > We build their cities, run their machines, fight their fights
 
-True, and I fucking hate this system.
+True, even though this is more communist propaganda,
+[I agree](http://monthlyreview.org/2009/05/01/why-socialism/).
 
 Money isn't what drives them.
 -----------------------------
-I [can't even understand money](https://youtu.be/iFDe5kUUyT0).
+I can't even [understand money](https://youtu.be/iFDe5kUUyT0).
 
 > Money is the tool they use to control us
 
@@ -175,13 +177,15 @@ Proof is very welcome.
 
 > Worthless pieces of paper we depend on
 
-*not an argument* and again, I agree with your anti-capitalist tendencies.
-This is becoming repetitive.
+*not an argument*, but again, I agree with your anti-capitalist tendencies.
+This is becoming repetitive...
 
 Trees are dead
 --------------
-Factories, poison, climate change, etc.
-I voted for the green party.
+Factories, poison, climate change, etc...
+
+I voted for the green party, don't have a drivers license and rarely
+buy anything.
 
 Animals are slaughtered
 -----------------------
