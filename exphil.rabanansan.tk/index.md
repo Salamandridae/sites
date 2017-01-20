@@ -1,6 +1,7 @@
 Exphil
 ======
 Strykprosenten har vært ~50% siden 1600-tallet.
+
 Nå er det vår tur til å misoppfatte budskapet.
 
 Rekkefølge på forelesninger
