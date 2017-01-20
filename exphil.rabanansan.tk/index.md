@@ -1,15 +1,28 @@
 Exphil
 ======
-Greetings from Sokrates.
-
-TODO
-Vi har hatt exphil siden 1600 tallet og har enda ikke bestått.
+Strykprosenten har vært ~50% siden 1600-tallet.
+Nå er det vår tur til å misoppfatte budskapet.
 
 Rekkefølge på forelesninger
 ---------------------------
+Sidebaren er sortert alfabetisk etter historiske figurer.
+Rekkefølgen er listet her:
+
  - Platon
  - Aristoteles
- - TODO
+ - Descartes
+ - Hume
+ - Kant
+ - Biologi/fysikk ????
+ - Beauvoir
+ - Heisenberg ????
+ - Mayr ????
+ - Smart
+ - Fried
+ - Hursthouse
+ - Singer
+ - Friedman
+ - Feldman ????
 
 Sentrale tema TODO
 -------------
