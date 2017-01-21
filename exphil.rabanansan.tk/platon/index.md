@@ -11,11 +11,23 @@ TODO
 
 Sokrates
 ========
+TODO
 Sokrates utfordret folk til å avlegge regnskap for hva de sto for som mennesker.
 Bl.a. ville han få folk til å begrunne sine valg med god argumentasjon.
+
 TODO
+Ønsket ikke at ting skal pugges.
+Skrev ikke ting ned.
+Vil at folk skal reflektere selv.
+Sokratisk metode. "Hva er" spørsmål. Elenchos?
+Polemisk argument?
 
 Menon
+=====
+En sentral tekst som exphil velger å fokusere på.
+Se sidebaren.
+
+Staten
 =====
 En sentral tekst som exphil velger å fokusere på.
 Se sidebaren.
@@ -31,7 +43,7 @@ Mesteparten av tekstene er diktning som allikevel reflekterer sokrates?
 De senere tekstene er preget av platons egne idéer og ikke sokrates?
 TODO
 
-http://philosophy.stackexchange.com/questions/30278/did-plato-record-actual-conversations-in-his-dialogues
+[philosophy.stackexchange.com/did-plato-record-actual-conversations-in-his-dialogues](http://philosophy.stackexchange.com/questions/30278/did-plato-record-actual-conversations-in-his-dialogues)
 
 Implikasjoner av spørsmål om dyd
 --------------------------------
@@ -41,4 +53,12 @@ TODO
 
 Noble lie
 ---------
-TODO?
+TODO
+
+Huleligning
+-----------
+TODO
+
+Andre kjente ideer
+------------------
+TODO
