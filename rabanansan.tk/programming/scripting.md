@@ -37,6 +37,17 @@ One could write a script?
 Or launch an interpreter dedicated for interactive mode when such is needed.
 A dedicated loop program, would break every standard.
 
+What syntax should be adopted/created?
+
 Solution
 ========
-I have none.
+I have no concrete solution.
+
+Should not have to import file capabilities.
+Management of files should be its priority.
+
+The loops, redirection and such could be sent as arguments to a program.
+That way, usage is unchanged except for a prefixed word.
+
+One program, e.g. cli, could be for cd'ing around and executing commands.
+Another, e.g. itrp, could interpret scripts from stdin, file or args.
