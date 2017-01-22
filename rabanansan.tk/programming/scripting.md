@@ -37,6 +37,6 @@ One could write a script?
 Or launch an interpreter dedicated for interactive mode when such is needed.
 A dedicated loop program, would break every standard.
 
-Sollution
-=========
+Solution
+========
 I have none.
