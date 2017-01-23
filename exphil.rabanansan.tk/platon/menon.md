@@ -12,6 +12,9 @@ De diskuterer hva dyd *er* og hvorvidt det kan læres eller øves.
 De konkluderer med at det ikke kan læres, men at noen besitter det, altså lodd.
 Dyd er å innse uvitenhet og deretter søke kunnskap?
 Hva kan læres? Gjenerindring.
+Sjelens udødelighet og gjenerindring.
+Hypotesens metode.
+Forskjellen mellom viten og sann tro.
 
 Dialogen
 ========
