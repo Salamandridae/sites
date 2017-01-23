@@ -1,64 +1,80 @@
-Menon
-=====
-En av dialogene til Platon handler om en samtale mellom Sokrates og Menon, en
-respektert mann i samfunnet.
+> Menon:
+> Fortell meg, Sokrates, kan dyd læres bort eller innøves?
 
+Da kunne jo alle bli dydig.
+Til og med slavene.
+Hvem skal da styre samfunnet?
+Hvem skal få opplæring i dyd?
+Hvordan lærer man isåfall dyd?
+
+> Menon:
+> Er det hverken læring eller øving som gir dyd, men det kommer naturlig?
+
+Hvem kommer det isåfall naturlig til?
+Rettferdigjør dette et aristokrati?
+Kan man oppsåke det i naturen?
+
+> Menon:
+> Eller kommer det på en annen måte?
+
+Smart å ikke anta at vår kreativitet setter begrensninger på virkeligheten.
+
+> Sokrates:
+> Jeg vet seriøst ingenting om hva dyd er.
+
+Det hevdes at sokrates er opphavsmann til sitatet "Jeg vet at jeg intet vet",
+kjent som sokrates' paradoks.
+
+> Menon:
+> Er du oppriktig når du sier du ikke vet hva dyd er?
+
+> Sokrates:
+> Ikke bare det, men jeg har aldri møtt noen andre som vet heller.
+
+> Sokrates:
+> Vet du?
+
+> Menon:
+> Det er enkelt:
+> En manns dyd er ...
+> En kvinnes dyd er ...
+> osv
+
+Ofte er vi overbevist i vår tro, uten å ha reflektert grundig gjennom det.
+
+> Sokrates:
+> Men det er kun eksempler.
+> Hva er det som gjør at alt dette er eksempler på dyd?
+> Kan du svare på det?
+
+> Menon:
+> Jeg begynner å forstå hva du spør om.
+> Kan du utdype?
+
+> Sokrates:
+> Er sunnhet eller styrke ulikt mellom menn og kvinner?
+> Hvis en dame er sterk, er det ikke den samme sterkheten som finnes i en mann?
+
+Et tidlig forsvar av kvinners rettigheter (i noen grad).
+
+> Menon:
+> Jo, jeg vil si at sunnhet er sunnhet, både for menn og kvinner.
+
+> Sokrates:
+> Vil ikke da dyd være dyd enten den er hos en mann eller en kvinne?
+
+> Menon:
+> Jeg tror dette tilfellet er annerledes enn eksempelet med styrke og sunnhet.
+
+> Sokrates:
+> Hvorfor?
+> Hvis menn skal styre staten, kvinner styre huset,
+> Kan noe styres godt uten måtehold og rettferdighet?
+> Da må alle gode menn og kvinner ha dyden av måtehold og rettferdighet?
+> Da finnes det noen felles egenskaper som kan definere dyd?
+
+Partikularia og universalia.
+"simile in multis".
+
+...
 TODO
-Man tror man vet, selvom man ikke helt vet.
-Ved rette spørsmål blir man klar over sin uvitenhet.
-"Man er bedre ved å vite at man ikke vet" mener sokrates?
-Fra gammel kunnskap synteseres ny. Fra *litt* kan resten ekstrapoleres.
-De diskuterer hva dyd *er* og hvorvidt det kan læres eller øves.
-De konkluderer med at det ikke kan læres, men at noen besitter det, altså lodd.
-Dyd er å innse uvitenhet og deretter søke kunnskap?
-Hva kan læres? Gjenerindring.
-Sjelens udødelighet og gjenerindring.
-Hypotesens metode.
-Forskjellen mellom viten og sann tro.
-
-Dialogen
-========
-Menon spør sokrates
-
-- Kan dyd læres? Kan det innøves? Eller oppstår dyd naturlig?
-  Eller finnes det en fjerde måte å oppnå dyd på?
-
-Til dette svarer Sokrates
-
-- Før vi kan besvare på det, er det viktig at vi spør oss selv:
-  Hva er dyd?
-
-Dyd
----
-En dyd er vanskelig å definére, men ofte brukes det som om det
-betyr *en positivt karakteregenskap*.
-
-Menons selvsikre svar til Sokrates var
-
-- Dyd er: for en mann, å evne å utføre byens affærer; for en kvinne å passe
-  huset; for et barn å respektere og adlyde de eldre.
-
-Men Sokrates er [ikke glad i eksempler.](http://existentialcomics.com/comic/153)
-
-- En firkant, en sirkel og en trekant, er alle eksempler på en figur, men hva
-  er det som gjør at noe er en figur? En figur avgrenser en flate.
-  Hva er en besvarelse til spørsmålet om dyd som er analogt til min
-  definisjon av figurer?
-
-Menons definisjon av dyd
-------------------------
-TODO
-
-Menons paradoks
----------------
-TODO
-
-Slaveeksempelet TODO
----------------
-Logical fallacy TODO
-
-Moralen av historien
---------------------
-Hva betyr det å lære?
-Læringsprosess: Selvom man ikke vet svaret, så vet man NOE.
-Og det kan gi en retning for å oppnå sannhet.
