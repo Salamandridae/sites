@@ -92,6 +92,24 @@ Et tidlig forsvar av kvinners rettigheter (i noen grad).
 Partikularia og universalia.
 "simile in multis".
 
-...
+Sokrates gir så en definisjon av figur for å vise hva slags svar han søker
 
-Orker ikke skrive resten
+> Sokrates:
+> Nå som jeg har gitt et eksempel,
+> vil du fortelle meg hva dyd er etter samme mønster?
+
+> Menon:
+> Dyd er å ønske det som er godt, og være i stand til å oppnå det.
+
+> Sokrates:
+> Da finnes det noen som søker godt og andre som søker godt?
+> Søker ikke alle menn godt?
+
+Så argumenterer han for at de som ønsker noe ondt, enten tror det er godt,
+eller søker det gode i det.
+
+Menon samtykker.
+
+___
+
+Dette var altfor omfattende å skrive.
