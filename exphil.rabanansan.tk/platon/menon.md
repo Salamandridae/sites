@@ -1,3 +1,19 @@
+Viktige punkter (skisse)
+===============
+Man tror man vet, selvom man ikke helt vet.
+Ved rette spørsmål blir man klar over sin uvitenhet.
+"Man er bedre ved å vite at man ikke vet" mener sokrates?
+Fra gammel kunnskap synteseres ny. Fra *litt* kan resten ekstrapoleres.
+De diskuterer hva dyd *er* og hvorvidt det kan læres eller øves.
+De konkluderer med at det ikke kan læres, men at noen besitter det, altså lodd.
+Dyd er å innse uvitenhet og deretter søke kunnskap?
+Hva kan læres? Gjenerindring.
+Sjelens udødelighet og gjenerindring.
+Hypotesens metode.
+Forskjellen mellom viten og sann tro.
+
+Menon
+=====
 > Menon:
 > Fortell meg, Sokrates, kan dyd læres bort eller innøves?
 
@@ -77,4 +93,5 @@ Partikularia og universalia.
 "simile in multis".
 
 ...
-TODO
+
+Orker ikke skrive resten
