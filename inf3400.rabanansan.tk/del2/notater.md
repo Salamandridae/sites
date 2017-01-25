@@ -148,3 +148,99 @@ motsetning til metning
 Vgt > Vt
 Vds < Vgs - Vt
 
+Del 2 fortsatt
+==============
+MOS transistor modell
+---------------------
+gate capasitans?
+er den statisk?
+uten kanal (deplesjon): mer cap?
+
+2-3 ganger forskjell i output
+gjør matematiske modeller mindre betydningsfull
+
+AV: cutoff
+Vgs < Vt
+Ids = 0
+
+PÅ lineært
+Vgs > Vt
+0 < Vds < Vgs - Vt
+kanal hele veien
+Vds bestemmer kanal
+
+pÅ metning
+kanal ikke hele veien (kanalforkortning)
+Vgs > Vt
+Vds > Vgs - Vt
+
+pMOS
+omvendt av nMOS
+
+parametre for strøm
+-------------------
+avstand, cap, spenning, bredde
+I ~ width/length = bredde/avstand
+C ~ w*l/tox = bredde*avstand/tox
+liten nanometer: reversfaktorer gjør fysikken komplisert
+legg lengden til minimum?
+
+tradeoffs:
+forsterkning?  øker l
+hastighet?  minker l
+pMOS har dårligere ladningsbærere
+ - dobler bredde gir lik strøm?
+ - kunne økt lengde til nMOS? nei: I ~ W/L og blir svak strøm
+ - L endrer hastighet
+
+Transistormodell
+----------------
+Q = CV
+
+kanal:
+V over Cg er
+
+Vgc = Vgs - Vds/2
+
+tox = tykkelse til dioksid
+
+Cg = eox*W*L/tox = Cox*W*L
+
+mobilitet = mu
+
+mu_n ~ 2*mu_p
+
+hastighet = mu * E
+E = efelt
+  = Vds/L
+
+tid:
+t = L/v
+
+strøm
+I = Q/t
+  = CV/t
+  = ...
+gjør utledningen!!!!
+"Lineær" strømmodell?
+skitten forenkling, fordi Vds er liten og ignorerer addisjon med den.
+
+Vt = terskelspenning!!!!
+
+som motstand (lineært)
+------------
+I lineært område fungerer strømmen *som* ved motstand
+Idt = Vds/Rds
+
+konduktans = G = R^-1 = B(Vgs-Vt)
+
+men lineært område suger: uklart output
+
+I metning
+---------
+Vdsat = Vgs - Vt
+
+transkonduktans stor => stor amp
+A = gm / go
+for god karakter!!!!
+

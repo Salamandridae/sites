@@ -1,3 +1,5 @@
+Del 1
+=====
 MOS transistor og komplementær logikk.
 Litt Del 1 først.
 
