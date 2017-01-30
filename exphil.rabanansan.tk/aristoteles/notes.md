@@ -1,19 +1,19 @@
 Aristoteles forelesning 2
 =========================
-Hva må forstås, for å forstå virkeligheten?
-Kausalitet: årsak vs virkning
-vitenskap ?= kunnskap om årsakssammenhenger/kausalsammenhenger
-naturlov?
-kausalregler er lovmessige (generelle mønstre, naturlover)
+ - Hva må forstås, for å forstå virkeligheten?
+ - Kausalitet: årsak vs virkning
+ - vitenskap ?= kunnskap om årsakssammenhenger/kausalsammenhenger
+ - naturlov?
+ - kausalregler er lovmessige (generelle mønstre, naturlover)
 
-sjel vs legeme (mentale vs fysiske)
-kan tenke føle forestille resonere beslutte planlegge: psykiske aktiviteter
+Sjel vs legeme (mentale vs fysiske).
+Kan tenke føle forestille resonere beslutte planlegge: psykiske aktiviteter.
 
-metafysikk
-virkelighetens grunnprinsipper
+Metafysikk:
+virkelighetens grunnprinsipper.
 
-menneske og dets liv
-hvilke prinsipper legger vi til grunn for å velge våre handlinger?
+Menneske og dets liv:
+Hvilke prinsipper legger vi til grunn for å velge våre handlinger?
 
 ^3 røde tråder
 
@@ -133,6 +133,7 @@ hva er lykken?
 tjener individed mest lykke med ego eller samfunn?
 
 to svar er vanlige blandt folk?
+
  1. nytelse
     - å tilfredsstille begjær (e.g. sult)
     - oppfylle sine ønsker (flest mulig, eller de sterkeste ønsker)
@@ -144,7 +145,9 @@ to svar er vanlige blandt folk?
 
 hva er et menneske?
 ------------------
-mann, kvinne, voksen, uganda, etc. variasjon
+mann, kvinne, voksen, uganda, etc. variasjon.
+
 lykke kan ikke være spesifikk for én person?
+
 må bruke fornuft.
 

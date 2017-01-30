@@ -53,7 +53,7 @@ Eksempelvis en person som tror han kan veien, men kan komme til feil sted.
 Sann mening, er like nyttig som viten, men man har aldrit testet sin tro I praksis.
 Eksempelvis en person som kan veien til et sted men aldri har gått dit.
 
-Med viten/kunnskap har man alltid rett, men med meninger så kan man ta feil.
+Viten er sann, begrunnet tro.
 Eksempelvis en person som kan veien til et sted og som faktisk har gått dit.
 
 

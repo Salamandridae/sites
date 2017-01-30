@@ -12,6 +12,15 @@ Sjelens udødelighet og gjenerindring.
 Hypotesens metode.
 Forskjellen mellom viten og sann tro.
 
+Innledning
+----------
+Sokrates hevder at han ikke kan diskutere dyd før han vet hva dyd er.
+Her viser platon at: før man kan diskutere detaljer om hva et begrep medfører,
+må man vite hva begrepet betyr i seg selv.
+
+En liste med eksempler er ikke god nok til å definere hva tingen som begrepet
+refererer til *er*.
+
 Menon
 =====
 > Menon:
