@@ -8,12 +8,12 @@ Potential contributors and skills
 
     Name     | Main skills        | Secondary
     -----------------------------------------
-    Gamal    | HE IS THE LEADER   | concepts, voices, programming
-    Grager   | music, programming | 3d
-    Larco    | 2d art, voices     | 3d
-    Leilif   | programming        | concepts
-    Pakkisen | music, voices      | audio
-    Raban    | programming        | organization, audio, 3d, vector graphics
+    Carci    | 2d art, voices     | 3d
+    Elseif   | programming        | concepts
+    Grageri  | music, programming | 3d
+    Jamali   | HE IS THE LEADER   | concepts, voices, programming
+    Pakki(s) | music, voices      | audio
+    Rabni    | programming        | organization, audio, 3d, vector graphics
 
 Execution
 ---------
