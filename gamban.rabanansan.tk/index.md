@@ -6,7 +6,7 @@ Recruits
 --------
 Potential contributors and skills
 
-    Name     | Main skills        | Secondary
+    Name     | Main kills        | Secondary
     -----------------------------------------
     Carci    | 2d art, voices     | 3d
     Elseif   | programming        | concepts
